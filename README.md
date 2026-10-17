@@ -1,6 +1,6 @@
 <div align="center">
   
-Multi-layer-SP-BP
+#Multi-layer SP-BP
 
 📃 [Conference Paper](https://arxiv.org/abs/2609.05844)
 
