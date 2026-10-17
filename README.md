@@ -13,10 +13,11 @@ Heterogeneous-interface multihop wireless networks (Het-MuNets) are emerging as 
 
 ## Citation
 ```
-@article{ming2026biased,
-  title={Biased Backpressure Routing for Multihop Wireless Networks with Heterogeneous Interfaces},
+@INPROCEEDINGS{ming2026biased,
   author={Ming, Yujun and Zhao, Zhongyuan and Dagefu, Fikadu and Kong, Justin and Moore, Terrence and Chan, Kevin and Swami, Ananthram and Segarra, Santiago},
-  journal={arXiv preprint arXiv:2609.05844},
-  year={2026}
+  booktitle={MILCOM 2026 - 2026 IEEE Military Communications Conference (MILCOM)},
+  title={Biased Backpressure Routing for Multihop Wireless Networks with Heterogeneous Interfaces},
+  year={2026},
+  keywords={Multi-hop routing;Heterogeneous wireless network;Backpressure routing;Queueing networks}
 }
 ```
